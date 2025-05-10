@@ -128,9 +128,8 @@ I spent about 15 hours on this project, focusing on:
 
 Got questions? Feel free to reach out! I'd love to discuss the project and my thought process behind certain decisions.
 
-[Your Name]
-[Your Email]
-[Your LinkedIn]
+Naidu Panvee
+panveenaidu5@gmail.com
 
 ---
 Built with ❤️ for Credex Web Development Internship
